@@ -1,4 +1,4 @@
 console.log('main branch')
-console.log('e')
-console.log('f')
-console.log('g');
+console.log('a branch')
+console.log('b commit')
+console.log('c commit')
